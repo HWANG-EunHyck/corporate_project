@@ -1,0 +1,12 @@
+욜로 데이터 만들기 파일 만들기 
+
+data/
+├── images/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+├── labels/              # YOLO 포맷의 라벨 파일들
+│   ├── image1.txt
+│   ├── image2.txt
+│   └── ...
+├── progress.txt         # 작업 진행상황 저장 파일
